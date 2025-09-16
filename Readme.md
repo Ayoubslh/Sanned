@@ -1,6 +1,6 @@
 # Sanned App
 
-A full-stack mission discovery and management platform for mobile and web, built with React Native (Expo) and Python (Flask).
+A full-stack mission discovery and management platform for mobile a, built with React Native (Expo) and Python (Flask).
 
 ---
 
@@ -16,7 +16,7 @@ A full-stack mission discovery and management platform for mobile and web, built
 ---
 
 ## Project Overview
-Sanned is a cross-platform app for discovering, creating, and managing missions. It features offline-first sync, location-based discovery, and a robust backend API.
+Sanned is a mobileapp for discovering, creating, and managing humanitarian missions for crisis area like Gaza . It is designed for those in the heart of the crisis to help each other with whatever they can (trading,providing help , services... ) when help is unreachable ,it is also a way and a tool for NGOs to assess the situation and act . It features offline-first sync, location-based discovery, and a robust backend API.
 
 ---
 
