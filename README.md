@@ -16,7 +16,7 @@ A full-stack mission discovery and management platform for mobile and web, built
 ---
 
 ## Project Overview
-Sanned is a cross-platform app for discovering, creating, and managing missions. It features offline-first sync, location-based discovery, and a robust backend API.
+Sanned is a mobile app for discovering, creating, and managing missions. It features offline-first sync, location-based discovery, and a robust backend API.
 
 ---
 
