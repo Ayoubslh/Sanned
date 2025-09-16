@@ -19,7 +19,5 @@ class Config:
         raise ValueError("JWT_SECRET_KEY must be set in environment variables")
 
     ABSTRACT_API_KEY = os.getenv("ABSTRACT_API_KEY")  
-    if not ABSTRACT_API_KEY:
-        raise ValueError("ABSTRACT_API_KEY must be set in environment variables")
-
+    # ABSTRACT_API_KEY is optional for development
     JWT_ACCESS_TOKEN_EXPIRES = timedelta(days=30)
